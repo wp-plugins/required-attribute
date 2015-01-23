@@ -4,7 +4,7 @@ Contributors: neilgee
 Donate link: http://coolestguidesontheplanet.com/
 Tags: required, forms, input, validate
 Requires at least: 3.8
-Tested up to: 4.0.0
+Tested up to: 4.1.0
 Stable tag: 4.3
 Plugin Name: Required Attribute
 Plugin URI: http://coolestguidesontheplanet.com/
